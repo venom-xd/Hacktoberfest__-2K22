@@ -1,7 +1,7 @@
 # Hactoberfest-2K21
 Hacktoberfest encourages participation in the open source community, which grows bigger every year. Complete the 2021 challenge and earn a limited edition T-shirt.
 
-![image](https://prnt.sc/jgoSvWZmlX1i)
+![image](https://user-images.githubusercontent.com/31730129/193740302-320c7926-38cd-4433-9b22-6a93c3846e28.png)
 <h1 align="center"> Hacktoberfest 2021 </h1>
 
 ## Event details :
